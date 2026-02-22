@@ -1,7 +1,8 @@
 #  Real Estate Sales & Profitability Dashboard
 
-An interactive **Power BI analytics solution** designed to evaluate real estate business performance by tracking revenue, expenses, sales trends, and regional contributions.
+## Business Problem
 
+Real estate leadership lacked a centralized view of financial and sales performance, making it difficult to identify profitable markets, control expenses, and evaluate sales effectiveness.
 ---
 
 ##  Business Objective
