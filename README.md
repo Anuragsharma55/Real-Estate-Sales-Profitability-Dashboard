@@ -69,7 +69,7 @@ This solution enables:
 ✔ Performance benchmarking of real estate agents
 
 ---
-📂 Use Case
+ ## Use Case
 
 This dashboard can be used by:
 
