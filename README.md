@@ -85,7 +85,7 @@ Strategy Teams → Market expansion decisions
 
 ##  Dashboard Preview
 
-*(.)*
+*(https://github.com/Anuragsharma55/Real-Estate-Sales-Profitability-Dashboard/blob/eb25fb841e06ac07450883d300b922ea4f7509d8/snapshot%20of%20dashboard%20(4).png)*
 
 ---
 
